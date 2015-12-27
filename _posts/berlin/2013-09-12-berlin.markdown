@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Berlin"
+date:   2013-09-04 16:00:00
+categories: Berlin
+---
+
+Berlin.
+
+![](/interrail2013/images/berlin/berlin.jpg)
+![](/interrail2013/images/berlin/berlin1.jpg)
+![](/interrail2013/images/berlin/berlin2.jpg)
+![](/interrail2013/images/berlin/berlin3.jpg)

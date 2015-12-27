@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Harwich"
+date:   2013-08-22 14:00:00
+categories: London
+---
+
+Cabin from Harwich to Hoek van Holland.
+
+![](/interrail2013/images/london/harwich.jpg)

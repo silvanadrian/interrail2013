@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Oslo"
+date:   2013-09-04 12:00:00
+categories: Oslo
+---
+
+Oslo.
+
+![](/interrail2013/images/oslo/oslo.jpg)
+![](/interrail2013/images/oslo/oslo1.jpg)
+![](/interrail2013/images/oslo/oslo2.jpg)
+![](/interrail2013/images/oslo/oslo3.jpg)

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Oslo 2"
+date:   2013-09-04 13:00:00
+categories: Oslo
+---
+
+Oslo.
+
+![](/interrail2013/images/oslo/lake.jpg)
+![](/interrail2013/images/oslo/lake1.jpg)
+![](/interrail2013/images/oslo/lake2.jpg)
+![](/interrail2013/images/oslo/lake3.jpg)
+![](/interrail2013/images/oslo/lake4.jpg)
+![](/interrail2013/images/oslo/lake5.jpg)

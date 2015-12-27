@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Superbude"
+date:   2013-08-26 12:00:00
+categories: Hamburg
+---
+
+Superbude St.Georg in Hamburg.
+
+![](/interrail2013/images/hamburg/bude.jpg)

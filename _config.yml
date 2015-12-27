@@ -1,0 +1,14 @@
+name: The rails way
+description: Reisetagebuch für Interrail Reise 
+meta_description: "Interrail Travelblog"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /interrail2013
+domain_name: 'http://silvanadrian.ch/interrail2013/'
+
+# Details for the RSS feed generator
+url:            'http://silvanadrian.ch/interrail2013/'
+author: 'Silvan Adrian'
