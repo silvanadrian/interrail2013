@@ -3,7 +3,7 @@ description: Reisetagebuch für Interrail Reise
 meta_description: "Interrail Travelblog"
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /interrail2013
